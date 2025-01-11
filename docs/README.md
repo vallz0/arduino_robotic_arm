@@ -44,4 +44,4 @@ pip install -r requirements.txt
 - pyserial: For serial communication with Arduino.
 3. Arduino IDE: You also need the Arduino IDE to load code into your Arduino.
 
-![Example](Images/preview.png)
+![Example](arduino_robotic_arm/Images/preview.png)
